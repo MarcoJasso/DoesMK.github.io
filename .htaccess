@@ -1,2 +1,2 @@
-AddHandler php5-cgi .html
-AddType application/x-httpd-php .htm .html .php
+
+AddType application/x-httpd-php .php .htm .html
