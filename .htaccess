@@ -1,1 +1,1 @@
-AddHandler php5-cgi .html
+AddHandler php-cgi .html
