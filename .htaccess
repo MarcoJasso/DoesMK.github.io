@@ -1,1 +1,1 @@
-DirectoryIndex index.php
+AddHandler php5-cgi .html
