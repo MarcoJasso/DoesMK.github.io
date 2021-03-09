@@ -1,1 +1,1 @@
-AddHandler php-cgi .html
+AddHandler application/x-httpd-php .htm .html
